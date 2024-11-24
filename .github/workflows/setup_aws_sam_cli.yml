@@ -1,7 +1,7 @@
-            - name: Setup AWS SAM CLI
-  # You may pin to the exact commit or the version.
-  # uses: aws-actions/setup-sam@2360ef6d90015369947b45b496193ab9976a9b04
-  uses: aws-actions/setup-sam@v2
+name: Setup AWS SAM CLI
+# You may pin to the exact commit or the version.
+# uses: aws-actions/setup-sam@2360ef6d90015369947b45b496193ab9976a9b04
+uses: aws-actions/setup-sam@v2
   with:
     # The AWS SAM CLI version to install
     version: # optional
