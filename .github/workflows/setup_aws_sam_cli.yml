@@ -1,0 +1,14 @@
+            - name: Setup AWS SAM CLI
+  # You may pin to the exact commit or the version.
+  # uses: aws-actions/setup-sam@2360ef6d90015369947b45b496193ab9976a9b04
+  uses: aws-actions/setup-sam@v2
+  with:
+    # The AWS SAM CLI version to install
+    version: # optional
+    # The Python interpreter to use for AWS SAM CLI
+    python: # optional
+    # Set to true to install using native installers instead of pip
+    use-installer: # optional
+    # Authentication token to be used to call GITHUB Apis
+    token: # optional
+          
