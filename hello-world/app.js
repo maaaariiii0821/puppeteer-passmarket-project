@@ -93,7 +93,7 @@ exports.lambdaHandler = async (event, context) => {
         
 
         // 以降の処理は既存の処理をそのまま使用
-        console.log(`Received Data: URL=${ticketURL}, Hour=${targetHour}, Minute=${targetMinute}, Second=${targetSecond}`);
+        console.log(`受信データ: URL=${ticketURL}, ${targetHour}時${targetMinute}分${targetSecond}秒`);
 
 
         // ブラウザを起動
