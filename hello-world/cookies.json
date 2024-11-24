@@ -1,0 +1,83 @@
+[
+  {
+    "name": "XB",
+    "value": "dq1139hivrl39&b=3&s=9d",
+    "domain": ".yahoo.co.jp",
+    "path": "/",
+    "expires": 1745693801.714936,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "JV",
+    "value": "A2hlhWYAADV_VUrU7oBYbat_ZfIFYz5vV1V2UkcJwRY-v_MU8ivQuZLB6Y_rb5hzm9avxGSLhoSQv-nIW4hFSwZeoiX_a_UFu-_L-PtvGcbhHIkIHc59EnUpigaSZA8c0MTVtr8KUX5faZKHwvW4FN_3OVWW6QVOJrvRssD2tEbrwQqTOJNlv7ST83NDO1SmJQ18ClFUE38Haw7b7YJTSb2enPuz9jUIY0JCIGtJctt5ZmMPSH-0WFVjRgssrVOuwyOAS56jriwXH-DKye8mAnVP7_1jMFRSSatd6Y9fKMi1TMU_nnf-3vgG-UfYBbRmfy7pJB1NEm2ERi4vCOcO7n_4oWRUqJ_yQwVOUNvKQ5_8VG9q-bEGYUFWFz8mGX-P-TbW_vCuyIAjeT2jfhIVbmB20SbApfHQ5is-rf23bFIHLAd1ljJ26X4FeHTzAfb9Mf6E6IxMII_jOMHJoEIFgDzzLBZVzjhp7-w5SHESuaSCBhWk_k3d_Pj5ukDQv-Ucq-uN4sbsKdTKP_U6PGAUogSVpoDNW84sfBRUlIQ7lqybcfMAZZfo2KNKZWd95nHg-3MOow0FckYIgTg749DrFVTxNtn4luDYdt0j0Hdu42pMubRSpO3g5ZlcC6UPEQ&v=2",
+    "domain": ".yahoo.co.jp",
+    "path": "/",
+    "expires": 1735829479.04822,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "PFC",
+    "value": "e%3D1732205624216%3Bv%3D1",
+    "domain": ".yahoo.co.jp",
+    "path": "/",
+    "expires": 1732810424.216703,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_n",
+    "value": "cGqXa8MFQs3ITa7NVfN3SI_uPNOsj-OkAAq89Sw8WzB3djlqQuW7m01ihhrp0XJOh9t2YIYYNM6Rpt1PxGntKrd_JPFvVUbdDkF-HZ2Fs21Ezae-b_dGfc4Dztw1bcjYtTc-euQUep39YkMrrO-M0j2A6shNo-NFkgOwTx8Lbrxo4v3Og1cGXz9dgrFCFbiYL3WHXaNzOdNCedDWoHe4cS-gKZlybJpm20R4DMiHQwITj9bnXwiyvgxSyHLWPfUPEkXMABhJjq8yIeRk2xeizfP5R7iiijZ8PoN2pe39TylQmd6x8lfP0wFSqF_kveTLViz_fLywkzZjRsOkXsICAL3H7fNwWMsakW8uSOSG8xIWd302d5dRa-mWE9C_uSFKqZN7sp5ZqqjgPQi_6-Gt2kX_BVI0uBQqq5UtnUYES1CQf4nMivbLvufwykJ9ZdBS1KaCH30bSBADOydf9ouzhfo6_VLzpDdmPBO8Sk3FPU_1Ok-D2SG6OZOl9lHs2bs6TrLPjE_wmScOEaY1VlCK6W27FSl6XZTyXQDLZwo2Gj6ex-Gt303tHwScEUaFdFMRzIrpeKeUPpOOJoidgZM4T9wUmNE3UD1Rm_LDZ7QoPCiqyVNTiuyJ--dAjIZ4-0oMxU4fEUAjVg7Cj31PRjwImBfptelQqfz7ZeI8x0uantcs3GVkXwIEggYTKhWgLjsbHj4m6lMupREJOOYLKHnEAaGXxBiF5TNWNGE2l4tZU7HLQTvzmX2PHNTgwK3fV9ZoxDyrBKBHwaVvw5SX9FynJtXGdF5D7mMVKnWASKnejoM-3QwBzSrjbe-aO3B70_6gGJUvZ0extf9Y9UKfUTay6TFKB80EuyCXpyOhRvHs7R04MsxDX_CJW680ZO_9OuWZHDawOUuqCbpIEsd2WwsrhFx9_V5CVdnzQBFeNsnD_MTsSIT5lo5g8LfmglHcmwGqXczlj3Ghuu4n6QOqCPx59xh98iiZHedVEHPwRTm88JzY0WgOKHYzKS3W4DEXhEGegdTDaNxNKIrbr2VeDkkUmOTHXeS8J-Yl9A4FWP_sSk3hAAQk3g3XQa8amDaU8_o8.3",
+    "domain": ".yahoo.co.jp",
+    "path": "/",
+    "expires": 1766987417.480903,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "T",
+    "value": "266031599e063f327ca7db287ac963171bbf89a4015d852fba5f8489758d3888",
+    "domain": ".yahoo.co.jp",
+    "path": "/",
+    "expires": 1766987417.480939,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "SSL",
+    "value": "1",
+    "domain": ".yahoo.co.jp",
+    "path": "/",
+    "expires": 1766987417.480958,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "Y",
+    "value": "v=2&l=f37b40a0250350eebeaf3aacc97f34629ed76ab37f4da70bb10ea23b05696f89",
+    "domain": ".yahoo.co.jp",
+    "path": "/",
+    "expires": 1766987417.480974,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "A",
+    "value": "179pgahivrl39&t=1711133801&u=1732427417&sd=A&v=1&sc=off&d=C08MKWPROjfMPd5D+U9NA28dvgFKNuedCvhSU3pK+JDGKKOMXMJotGet6P1u9Xpypp0JhJsmqQd1oHMDHIZEKN7I6Me1WgFjb3EpRfj3L/ry0/CHd2Dp/We6WJpa6DnvhmdHX/phYnQ1sOkh/0",
+    "domain": ".yahoo.co.jp",
+    "path": "/",
+    "expires": 1763963417.480991,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "XA",
+    "value": "179pgahivrl39&t=1711133801&u=1732427417&sd=A&v=1&sc=off&d=C08MKWPROjfMPd5D+U9NA28dvgFKNuedCvhSU3pK+JDGKKOMXMJotGet6P1u9Xpypp0JhJsmqQd1oHMDHIZEKN7I6Me1WgFjb3EpRfj3L/ry0/CHd2Dp/We6WJpa6DnvhmdHX/phYnQ1sOkh/0",
+    "domain": ".yahoo.co.jp",
+    "path": "/",
+    "expires": 1763963417.481013,
+    "httpOnly": true,
+    "secure": true
+  }
+]

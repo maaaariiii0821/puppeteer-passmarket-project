@@ -1,0 +1,21 @@
+{
+  "name": "passmarket_puppeteer",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cross-env DEBUG=puppeteer:* node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.668.0",
+    "@sparticuz/chromium": "^130.0.0",
+    "cross-env": "^7.0.3",
+    "puppeteer-core": "^23.6.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
