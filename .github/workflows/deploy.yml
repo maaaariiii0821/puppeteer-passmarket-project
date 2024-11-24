@@ -18,7 +18,7 @@ jobs:
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}  # GitHub Secretsに保存したAWSアクセスキーID
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}  # GitHub Secretsに保存したAWSシークレットアクセスキー
-          region: us-east-1  # AWSリージョン
+          region: ap-northeast-1  # AWSリージョン
 
       - name: Package Lambda function
         run: |
